@@ -1,5 +1,5 @@
 {
-  "name": "decompress-zip",
+  "name": "ideatica-unzip",
   "version": "0.3.0",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
@@ -7,7 +7,7 @@
     "test": "grunt test"
   },
   "bin": "bin/decompress-zip",
-  "repository": "bower/decompress-zip",
+  "repository": "https://github.com/Ideatica/ideatica-unzip",
   "engines": {
     "node": ">=0.10.0"
   },
